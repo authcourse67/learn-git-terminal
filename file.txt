@@ -1,2 +1,3 @@
 This is a text file i just created. 
 Let's make some changes
+THis is a change we would commit without staging
