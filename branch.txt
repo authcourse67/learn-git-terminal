@@ -1,1 +1,2 @@
-This is in the emergency fix and it should soon appear in the main branch
+This is in the emergency fix and it should soon appear in the main branch. I've learnt about 
+Git pull being a combination of both fetch and then merge
