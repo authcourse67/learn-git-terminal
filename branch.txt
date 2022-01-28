@@ -1,1 +1,2 @@
-This is a new branch file. This only exists in the edit branch
+This is a new branch file. This only exists in the edit branch.
+I will make edits to this file now. This is in the emergency fix and it should soon appear in the main branch
